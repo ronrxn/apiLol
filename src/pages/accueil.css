@@ -1,0 +1,7 @@
+.body {
+    background-image: url('../../public/splash/Leona_11.jpg');
+    background-size: cover;
+    filter: brightness(50%);
+    width: 100svw;
+    height: 100svh;
+}
